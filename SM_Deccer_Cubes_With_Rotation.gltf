@@ -34,11 +34,6 @@
                 0.011099997907876968,
                 0.009999999776482582,
                 0.009999999776482582
-            ],
-            "translation" : [
-                2.719031810760498,
-                -3.882479667663574,
-                -1.370405912399292
             ]
         },
         {
@@ -54,11 +49,6 @@
                 0.011099997907876968,
                 0.009999999776482582,
                 0.009999999776482582
-            ],
-            "translation" : [
-                2.719031810760498,
-                -3.882479667663574,
-                -1.370405912399292
             ]
         },
         {
@@ -74,11 +64,6 @@
                 0.011099997907876968,
                 0.009999999776482582,
                 0.009999999776482582
-            ],
-            "translation" : [
-                2.719031810760498,
-                -3.882479667663574,
-                -1.370405912399292
             ]
         },
         {
@@ -94,11 +79,6 @@
                 0.011099997907876968,
                 0.009999999776482582,
                 0.009999999776482582
-            ],
-            "translation" : [
-                2.719031810760498,
-                -3.882479667663574,
-                -1.370405912399292
             ]
         },
         {
@@ -114,11 +94,6 @@
                 0.011099997907876968,
                 0.009999999776482582,
                 0.009999999776482582
-            ],
-            "translation" : [
-                2.719031810760498,
-                -3.882479667663574,
-                -1.370405912399292
             ]
         },
         {
@@ -134,11 +109,6 @@
                 0.011099997907876968,
                 0.009999999776482582,
                 0.009999999776482582
-            ],
-            "translation" : [
-                2.719031810760498,
-                -3.882479667663574,
-                -1.370405912399292
             ]
         },
         {
@@ -154,11 +124,6 @@
                 0.011099997907876968,
                 0.009999999776482582,
                 0.009999999776482582
-            ],
-            "translation" : [
-                2.719031810760498,
-                -3.882479667663574,
-                -1.370405912399292
             ]
         },
         {
@@ -174,11 +139,6 @@
                 0.011099997907876968,
                 0.009999999776482582,
                 0.009999999776482582
-            ],
-            "translation" : [
-                2.719031810760498,
-                -3.882479667663574,
-                -1.370405912399292
             ]
         },
         {
@@ -194,11 +154,6 @@
                 0.011099997907876968,
                 0.009999999776482582,
                 0.009999999776482582
-            ],
-            "translation" : [
-                2.719031810760498,
-                -3.882479667663574,
-                -1.370405912399292
             ]
         }
     ],
@@ -207,62 +162,12 @@
             "doubleSided" : true,
             "name" : "Material.001",
             "pbrMetallicRoughness" : {
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.4000000059604645
-            }
-        },
-        {
-            "doubleSided" : true,
-            "name" : "Material.006",
-            "pbrMetallicRoughness" : {
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        },
-        {
-            "doubleSided" : true,
-            "name" : "Material.008",
-            "pbrMetallicRoughness" : {
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.4000000059604645
-            }
-        },
-        {
-            "doubleSided" : true,
-            "name" : "Material.009",
-            "pbrMetallicRoughness" : {
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        },
-        {
-            "doubleSided" : true,
-            "name" : "Material.010",
-            "pbrMetallicRoughness" : {
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.4000000059604645
-            }
-        },
-        {
-            "doubleSided" : true,
-            "name" : "Material.011",
-            "pbrMetallicRoughness" : {
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.4000000059604645
-            }
-        },
-        {
-            "doubleSided" : true,
-            "name" : "Material.005",
-            "pbrMetallicRoughness" : {
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        },
-        {
-            "doubleSided" : true,
-            "name" : "Material.012",
-            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.800000011920929,
+                    0.800000011920929,
+                    0.800000011920929,
+                    1
+                ],
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.4000000059604645
             }
@@ -293,7 +198,7 @@
                         "TEXCOORD_0" : 6
                     },
                     "indices" : 7,
-                    "material" : 1
+                    "material" : 0
                 }
             ]
         },
@@ -321,7 +226,7 @@
                         "TEXCOORD_0" : 14
                     },
                     "indices" : 15,
-                    "material" : 2
+                    "material" : 0
                 }
             ]
         },
@@ -335,7 +240,7 @@
                         "TEXCOORD_0" : 18
                     },
                     "indices" : 11,
-                    "material" : 3
+                    "material" : 0
                 }
             ]
         },
@@ -349,7 +254,7 @@
                         "TEXCOORD_0" : 21
                     },
                     "indices" : 11,
-                    "material" : 4
+                    "material" : 0
                 }
             ]
         },
@@ -363,7 +268,7 @@
                         "TEXCOORD_0" : 24
                     },
                     "indices" : 11,
-                    "material" : 5
+                    "material" : 0
                 }
             ]
         },
@@ -377,7 +282,7 @@
                         "TEXCOORD_0" : 27
                     },
                     "indices" : 28,
-                    "material" : 6
+                    "material" : 0
                 }
             ]
         },
@@ -391,7 +296,7 @@
                         "TEXCOORD_0" : 31
                     },
                     "indices" : 11,
-                    "material" : 7
+                    "material" : 0
                 }
             ]
         }
